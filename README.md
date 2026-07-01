@@ -10,7 +10,6 @@ Built a semantic document retrieval system using LangChain and Pinecone. The sys
 ![VectorDB](https://img.shields.io/badge/Vector%20Database-Semantic%20Search-green?style=for-the-badge)
 
 ---
-
 # 📌 Project Overview
 
 The **AI-Powered Document Retrieval System** is a Retrieval-Augmented Generation (RAG) based application that processes PDF documents, converts them into semantic embeddings, and stores them in a vector database (Pinecone) for efficient information retrieval.
