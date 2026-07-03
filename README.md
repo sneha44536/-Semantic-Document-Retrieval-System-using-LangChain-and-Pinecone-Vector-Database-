@@ -13,6 +13,9 @@ Built a semantic document retrieval system using LangChain and Pinecone. The sys
 # 📌 Project Overview
 
 
+
+
+
 The **AI-Powered Document Retrieval System** is a Retrieval-Augmented Generation (RAG) based application that processes PDF documents, converts them into semantic embeddings, and stores them in a vector database (Pinecone) for efficient information retrieval.
 
 The system allows users to query large documents and retrieve the most relevant sections using **semantic similarity search instead of keyword-based search**.
