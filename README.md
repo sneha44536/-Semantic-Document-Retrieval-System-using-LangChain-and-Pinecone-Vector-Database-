@@ -1,5 +1,7 @@
 # -Semantic-Document-Retrieval-System-using-LangChain-and-Pinecone-Vector-Database-
 Built a semantic document retrieval system using LangChain and Pinecone. The system processes PDFs, converts text into embeddings, and retrieves relevant chunks using vector search.
+
+
 # 📄 AI-Powered Document Retrieval System using LangChain & Pinecone
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
@@ -16,6 +18,7 @@ The **AI-Powered Document Retrieval System** is a Retrieval-Augmented Generation
 The system allows users to query large documents and retrieve the most relevant sections using **semantic similarity search instead of keyword-based search**.
 
 This project demonstrates how modern AI systems use **embeddings + vector databases + LLM pipelines** to build intelligent knowledge retrieval systems.
+
 
 ---
 
